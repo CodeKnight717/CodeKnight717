@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautam Shukla</h1>
-<h3 align="center">A Passionate CS student, highly interseted in CyberSecurity and DSA</h3>
+<h3 align="center">A Passionate CS Student, highly interseted in CyberSecurity and DSA</h3>
 
 - 🌱 I’m currently learning **React, DSA**
 
